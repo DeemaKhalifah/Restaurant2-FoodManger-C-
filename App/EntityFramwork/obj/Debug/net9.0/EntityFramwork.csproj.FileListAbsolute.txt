@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\C#\Restaurant\EntityFramwork\bin\Debug\net9.0\appsettings.json
+C:\Users\Administrator\Desktop\C#\Restaurant\EntityFramwork\bin\Debug\net9.0\EntityFramwork.deps.json
+C:\Users\Administrator\Desktop\C#\Restaurant\EntityFramwork\bin\Debug\net9.0\EntityFramwork.dll
+C:\Users\Administrator\Desktop\C#\Restaurant\EntityFramwork\bin\Debug\net9.0\EntityFramwork.pdb
+C:\Users\Administrator\Desktop\C#\Restaurant\EntityFramwork\bin\Debug\net9.0\Domain.dll
+C:\Users\Administrator\Desktop\C#\Restaurant\EntityFramwork\bin\Debug\net9.0\Domain.pdb
+C:\Users\Administrator\Desktop\C#\Restaurant\EntityFramwork\obj\Debug\net9.0\EntityFramwork.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\Restaurant\EntityFramwork\obj\Debug\net9.0\EntityFramwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C#\Restaurant\EntityFramwork\obj\Debug\net9.0\EntityFramwork.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C#\Restaurant\EntityFramwork\obj\Debug\net9.0\EntityFramwork.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C#\Restaurant\EntityFramwork\obj\Debug\net9.0\EntityFramwork.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#\Restaurant\EntityFramwork\obj\Debug\net9.0\EntityFr.1B97E0D4.Up2Date
+C:\Users\Administrator\Desktop\C#\Restaurant\EntityFramwork\obj\Debug\net9.0\EntityFramwork.dll
+C:\Users\Administrator\Desktop\C#\Restaurant\EntityFramwork\obj\Debug\net9.0\refint\EntityFramwork.dll
+C:\Users\Administrator\Desktop\C#\Restaurant\EntityFramwork\obj\Debug\net9.0\EntityFramwork.pdb
+C:\Users\Administrator\Desktop\C#\Restaurant\EntityFramwork\obj\Debug\net9.0\ref\EntityFramwork.dll
