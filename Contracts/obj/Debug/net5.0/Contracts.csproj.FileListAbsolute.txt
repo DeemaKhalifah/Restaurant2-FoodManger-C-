@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\C#\Restaurant\Contracts\bin\Debug\net5.0\Contracts.deps.json
+C:\Users\Administrator\Desktop\C#\Restaurant\Contracts\bin\Debug\net5.0\Contracts.dll
+C:\Users\Administrator\Desktop\C#\Restaurant\Contracts\bin\Debug\net5.0\Contracts.pdb
+C:\Users\Administrator\Desktop\C#\Restaurant\Contracts\obj\Debug\net5.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C#\Restaurant\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C#\Restaurant\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C#\Restaurant\Contracts\obj\Debug\net5.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#\Restaurant\Contracts\obj\Debug\net5.0\Contracts.dll
+C:\Users\Administrator\Desktop\C#\Restaurant\Contracts\obj\Debug\net5.0\refint\Contracts.dll
+C:\Users\Administrator\Desktop\C#\Restaurant\Contracts\obj\Debug\net5.0\Contracts.pdb
+C:\Users\Administrator\Desktop\C#\Restaurant\Contracts\obj\Debug\net5.0\ref\Contracts.dll
